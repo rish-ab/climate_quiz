@@ -1,0 +1,16 @@
+.name-head{
+    background-color: cyan;
+}
+.row-header{
+    background-color: black;
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+}
+.row-header h1{
+    color: white;
+    align-self: center;
+}
+#uname{
+    margin: 15px;
+}
